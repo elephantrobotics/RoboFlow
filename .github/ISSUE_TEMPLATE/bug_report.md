@@ -26,6 +26,8 @@ If applicable, copy/paste the text or add screenshots to help explain your probl
 
 **Environment (please complete the following information):**
  - RoboFlow version:
+ - M5 Atom firmware and version: [e.g. AtomMain 3.3]
+ - M5 Basic firmware and version: [e.g. Transponder 1.0]
  - OS: [e.g. Ubuntu 20.04, Windows 10 1809, macOS 10.14]
  - Robot: [e.g. myCobot 280, myCobot 320, etc.]
 
